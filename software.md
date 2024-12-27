@@ -94,3 +94,16 @@ One of my least favorite parts of Windows, personally I uninstall it as soon as 
 # Firewall
 
 This doesn't matter as much but I still prefer disabling it, most modern routers have a Firewall of their own, not to mention your ISP does as well, do you really need to be behind 3 firewalls? not really... All that being said Windows Firewall can be useful if you want to block specific apps from accessing the internet.
+
+# Tweaks... (I hate this word)
+
+I'll take a moment to talk about what people tend to call "tweaks" and "tweakers", if you currently search up this buzz-word in combination with the name of a popular game (Fortnite, Valorant) you'll find hundreds of videos all following the same template, they'll tell you to join their Discord server and in there they link a poorly written batch file that has been bloated with registry keys that don't do ANYTHING, please, please, DON'T RUN ANYTHING LIKE THAT, it's not inherntly dangerous (even though it could be) but it's worse than not doing it, everything can be done by your own 2 hands, in your own Windows install, YOU decide what to do, not a file... (I'm not discouraging the use of small, useful scripst for automation, quite the opposite, I love powershell scripts and batch scripts that have a single use, making your life easier, not total utilities that claim to "tweak" your computer)
+
+I'll also touch on "tweakers" as they like to call themselves, I do not associate with these people, there are absolute gems in the community of said "tweakers" that actually put in work and know what they're talking about, but 99% of them don't have any Computer Science knowledge at all, it's all a huge money grab (that works..). Don't buy any $30 batch files from anyone, it's not worth it, it's not going to do anything.
+
+
+# Power savings 
+
+I'm guessing you know by now that these have no place in a real-time system, power savings are absolutely everywhere, from inside the hardware itself to your BIOS and of course your windows install, I won't go over each individual setting, you're free to look for yourself, anything "dynamic" or "efficient" should be turned off, I'll link a power plan and such in the Releases of this GitHub.
+
+
