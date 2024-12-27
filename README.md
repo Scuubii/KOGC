@@ -12,6 +12,9 @@ Anyways you're free to skip to whatever part you want, I'll do my best to sepera
 ALL LOVE <3 
 
 
+https://linktr.ee/Scuubi
+
+
 
 
 [hardware.md](https://github.com/Scuubii/PC-Optimization/blob/main/hardware.md)
