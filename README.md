@@ -10,3 +10,8 @@ Anyways you're free to skip to whatever part you want, I'll do my best to sepera
 
 
 ALL LOVE <3 
+
+
+
+
+hardware.md
