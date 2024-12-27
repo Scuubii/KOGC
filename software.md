@@ -78,6 +78,7 @@ An AMAZING guide is [Amit's PC Tuning Guide](https://github.com/valleyofdoom/PC-
 
 Disable all power savings in device manager or use this command in Poweshell
 
-'''
+```
 Get-WmiObject MSPower_DeviceEnable -Namespace root\wmi | ForEach-Object { $_.enable = $false; $_.psbase.put(); }
-'''
+
+```
