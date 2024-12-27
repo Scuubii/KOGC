@@ -14,4 +14,4 @@ ALL LOVE <3
 
 
 
-hardware.md
+[hardware.md](https://github.com/Scuubii/PC-Optimization/blob/main/hardware.md)
