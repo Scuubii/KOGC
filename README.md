@@ -1,4 +1,4 @@
-# PC Optimization guide - Scuubi
+# A General Optimization Guide - Scuubi
 
 
 ## This is a complete walkthrough on most of what I know about hardware / software on both Intel and AMD. If by the end (and after reading the FAQ) you still have questions and or problems, I'll gladly answer on the discord linked to my GitHub profile.
