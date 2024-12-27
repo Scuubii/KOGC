@@ -12,9 +12,10 @@ Anyways you're free to skip to whatever part you want, I'll do my best to sepera
 ALL LOVE <3 
 
 
-https://linktr.ee/Scuubi
+You an find all my links and socials here [Linktree](https://linktr.ee/Scuubi)
 
 
 
+After every chapter there will be a link to the next one, in order, like this
 
 [hardware.md](https://github.com/Scuubii/PC-Optimization/blob/main/hardware.md)
