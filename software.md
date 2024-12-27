@@ -71,14 +71,14 @@ I'll take the software stuff from most important to least, don't forget there's 
 
 At this point you have a perfectly working Windows install that's decent, if you want to stop here you can, go ahead install your games and enjoy.... or keep going I guess...
 
-More advanced stuff, this won't be a list and more like a ramble:
+For more advanced stuff I can link some other guides that go over specifics in crazy depth:
 
 
-An AMAZING guide is [Amit's PC Tuning Guide](https://github.com/valleyofdoom/PC-Tuning)
+1. An AMAZING guide is [Amit's PC Tuning Guide](https://github.com/valleyofdoom/PC-Tuning) by Amit, also check his github ValleyOfDoom, great stuff.
+2. [BoringBoredom](https://github.com/BoringBoredom/PC-Optimization-Hub/tree/main)
+3. [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0)
+4. Many others are linked in the ones I already linked so I won't like those.
 
-Disable all power savings in device manager or use this command in Poweshell
+This will also not be the last of My guides or even this specifc guide, I'll add more to this as I feel like . . . This was all written in a single sitting so you can imagine I'm quite tired.
 
-```
-Get-WmiObject MSPower_DeviceEnable -Namespace root\wmi | ForEach-Object { $_.enable = $false; $_.psbase.put(); }
 
-```
