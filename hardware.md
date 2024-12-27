@@ -145,3 +145,9 @@ Not much to say about keyboards, turn the actuation point to the lowest on all k
 
 As a plus you can set all RGB to static or OFF (this goes for everything BTW, RGB sucks, try to buy products without it or disable it)
 
+
+
+
+
+
+[bios.md](https://github.com/Scuubii/PC-Optimization/blob/main/bios.md)
