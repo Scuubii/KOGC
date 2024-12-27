@@ -16,7 +16,7 @@ You can do manual settings in the BIOS but some will always be hidden, to unhide
 
 For manual settings, keep this in mind, turn OFF everything:
 
-- powe saving
+- power saving
 - spread spectrum, spectrum 
 - dynamic stuff like cores and voltages
 - E cores on Intel and second CCD on multi-CCD AMD processors
