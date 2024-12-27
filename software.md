@@ -82,3 +82,15 @@ For more advanced stuff I can link some other guides that go over specifics in c
 This will also not be the last of My guides or even this specifc guide, I'll add more to this as I feel like . . . This was all written in a single sitting so you can imagine I'm quite tired.
 
 
+# My way of advanced tinkering
+
+You don't have to do anything that I do, this is only my way of doing stuff, and my opinions on certain parts of Windows.
+
+
+# Windows Defender
+
+One of my least favorite parts of Windows, personally I uninstall it as soon as I boot in, if you know what you're downloading you're never going to need Defender, also it's one of the biggest game changers when it comes to latency.
+
+# Firewall
+
+This doesn't matter as much but I still prefer disabling it, most modern routers have a Firewall of their own, not to mention your ISP does as well, do you really need to be behind 3 firewalls? not really... All that being said Windows Firewall can be useful if you want to block specific apps from accessing the internet.
