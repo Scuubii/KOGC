@@ -98,9 +98,23 @@ I feel like any modern CPU should be cooled by AT LEAST a 240mm AIO, please don'
 
 On more demanding CPUs (14900k, 9800x3d) you'd go for a 360mm / 420mm good AIO.
 
-In a PERFECT world you would do what's commonly called "de-lidding" or "direct die cooling" this is an advanced techinique where people take off the "lid" of the CPU, this is the exterior that we all know and love, that's what keeps the interior components of your CPU safe, this is taken off to expose the CPU die itself, the actual thing generating heat, then people apply a cooler directly to this die, bypassing the lid and getting better thermal results. This should only be done if you know what you're doing and are really pushing chips to their limits.
+In a PERFECT world you would do what's commonly called "de-lidding" or "direct die cooling" this is an advanced technique where people take off the "lid" of the CPU, this is the exterior that we all know and love, that's what keeps the interior components of your CPU safe, this is taken off to expose the CPU die itself, the actual thing generating heat, then people apply a cooler directly to this die, bypassing the lid and getting better thermal results. This should only be done if you know what you're doing and are really pushing chips to their limits.
+
+In case you're considering Direct Die cooling, I'd suggest following an actual Direct Die guide, but I'll be going over some key points:
+
+Sand down the IHS in orddr to reduce the imperfections on the surface, these can lead to worse thermal perfomrance.
+
+You should also consider using Liquid Metal instead of thermal paste
 
 You also need some good case fans, I can recommend Noctua as a company or Arctic, depends on your budget, you should fill up every fan spot in your case.
+
+
+## Thermal Paste
+
+Since thermal paste is a sub-category of cooling I'll be talking about it here
+
+
+There isn't much about thermal paste, buy the highest quality paste brand (Do your own reserach but Kryonaut is great), if you need to squeeze extra thermal performance you can look into Liquid Metal alternatives, keep in mind this massively punishes mistakes, if the liquid metal spills onto the motherboard, it will short something out.
 
 
 
