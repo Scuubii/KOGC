@@ -86,7 +86,7 @@ If you want me to tell you the best GPU to buy, it's the most expensive one (wow
 
 # Storage
 
-Not much to say about this either, buy a fast SSD that has enough storage for your use case, make sure this is not SATA or NVMe, it should be M.2|
+Not much to say about this either, buy a fast SSD that has enough storage for your use case, make sure this is not SATA or NVMe, it should be M.2
 
 
 
