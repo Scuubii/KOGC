@@ -10,11 +10,26 @@
 # CPUs 
 
 
+
+## Intel 
+
+
 As of writing this, the newest Intel CPUs (Core ultra series) are considerably worse then their older counterparts, if you're looking to buy an Intel CPU and newer alternatives haven't been released or proved to be better, look for a a 14700ks / 14900ks (New microcode updates fix the voltage frying the CPU)
 
-If you're looking for AMD I could only really recommend the 9800x3d.
+Intel being the undisputed king on processors dating back decades, their peak being somewhere around early 2013.
 
-Keep in mind that a STOCK Intel CPU will perform worse on average then a STOCK AMD CPU, on the other hand if both are pushed to the limit, Intel tends to come on top (at the cost of twice the power consumption). At the end of the day it comes down to when you're reading this and what you're looking for in your specific use case, ask yourself, Is this system PURELY for gaming? Am I going to utilize what I'm buying? Do I have the knowledge to completely utilize the hardware I'm buying?
+Recently their margins and stocks have plummeted due to the microcode issues on 13th and 14th gen CPUs resulting in permanent physical damage and the new dissapointing Ultra Core release.
+
+## AMD
+
+If you're looking for AMD I could only really recommend the 7800x3d and more recently the 9800x3d (this one is really spicy)
+
+AMD has been on a massive come-up since the early 2010s and has been taking over the consumer gaming scene in masses.
+
+Not much to say except that it's a solid platform meant for GAMING, you can get AMD CPUs focused on workloads but you'll be sacrificing latency on dual CCD processors, that in mind AMD server processors are undoubtably superior.
+
+## Design / differences
+
 
 Intel vs AMD debates have mostly died down due to both parties making exceptional CPUs. The only benefit that Intel still has over AMD is a monolithic* CPU DIE design while AMD is utilizing a chiplet* design
 
@@ -22,12 +37,7 @@ monolithic - this refers to the Intel DIE being one singular piece of actual har
 
 chiplet- This is AMD's choice of CPU DIE, it's multiple chiplets tied together by a high speed "transmitter" that relays information between the chiplets, the argument for this being slower is that a part of your real-time program could happen on one chiplet while a whole different chiplet is processing another part of the same program, adding a transmitter means the relaying of this data isn't instant, therefor adding a delay, this delay is VERY slight and most likely a non factor unlesss you're pushing both chips to their limits (while the other conditions are near-perfect)
 
-
 Fun Fact: After Intel called AMD's chiplet technology "bascially glue" they then used the exact same technology on their new server CPUs, resulting in worse performance and power consumption than AMD for a more expensive price.
-
-Moving on from basics, I want to talk about the specifics of each chip, to put it simply, AMD is a LOT easier to mess around with, this is not a rule but especially on ASUS motherboards, and on newer Ryzen processors, the BIOS is simplified and generally has good descriptions for each setting, this cannot be said for Intel, this could either be an advantage or a disadvantage depending on what you're looking for, as a rule of thumb, take everything AMD as simpler and Intel as more complicated, not to say AMD can't get complex or that Intel is "too hard".
-
-!! A major difference between AMD and Intel CPUs is the MASSIVE L3 cache on AMD processors, I can't go over the entierty of L3 cache in a single guide as it would take forever, you're free to read more on this, I'll mostly skip over this, just know bigger number = better, AMD has more cache while Intel pushes the core clocks further.
 
 I'll be talking more about CPUs in the following section as in a way or another everything connects back to the CPU :D
 
@@ -74,6 +84,16 @@ That's the most important thing about motherboards but you could also factor in 
 
 TLDR: buy a good 2 DIMMer
 
+AMD:
+
+1. x870e crosshair hero (best overall) 
+2. x870e-e (more normal choice)
+
+Intel:
+
+1. z790 Encore (best overall)
+2. z790-I lightning (solid choice)
+
 
 
 # GPUs
@@ -82,11 +102,13 @@ This is the most simple category
 
 NVIDIA, please don't buy an AMD GPU unless your goal is to daily drive Linux operating systems, AMD is just worse in this field. 
 
-If you want me to tell you the best GPU to buy, it's the most expensive one (wow! really?), you can also get away with cheaper GPUs if you're doing 1080p on non demanding games, I'll go more in depth into this in the Operating System category when I describe latency and how it influences certain factors.
+If you want me to tell you the best GPU to buy, it's the most expensive one, (wow! really?), you can also get away with cheaper GPUs if you're doing 1080p on non demanding games, I'll go more in depth into this in the Operating System category when I describe latency and how it influences certain factors.
 
 # Storage
 
 Not much to say about this either, buy a fast SSD that has enough storage for your use case, make sure this is not SATA or NVMe, it should be M.2
+
+If your goal is some sort of storage server or a NAS, you can look into refurbished 8tb drives, but I'm sure if you're looking into that setup you have better sources then this.
 
 
 
@@ -98,15 +120,13 @@ I feel like any modern CPU should be cooled by AT LEAST a 240mm AIO, please don'
 
 On more demanding CPUs (14900k, 9800x3d) you'd go for a 360mm / 420mm good AIO.
 
+## Advanced / permanent damage !
+
 In a PERFECT world you would do what's commonly called "de-lidding" or "direct die cooling" this is an advanced technique where people take off the "lid" of the CPU, this is the exterior that we all know and love, that's what keeps the interior components of your CPU safe, this is taken off to expose the CPU die itself, the actual thing generating heat, then people apply a cooler directly to this die, bypassing the lid and getting better thermal results. This should only be done if you know what you're doing and are really pushing chips to their limits.
 
 In case you're considering Direct Die cooling, I'd suggest following an actual Direct Die guide, but I'll be going over some key points:
 
 Sand down the IHS in orddr to reduce the imperfections on the surface, these can lead to worse thermal perfomrance.
-
-You should also consider using Liquid Metal instead of thermal paste
-
-You also need some good case fans, I can recommend Noctua as a company or Arctic, depends on your budget, you should fill up every fan spot in your case.
 
 
 ## Thermal Paste
@@ -115,6 +135,8 @@ Since thermal paste is a sub-category of cooling I'll be talking about it here
 
 
 There isn't much about thermal paste, buy the highest quality paste brand (Do your own reserach but Kryonaut is great), if you need to squeeze extra thermal performance you can look into Liquid Metal alternatives, keep in mind this massively punishes mistakes, if the liquid metal spills onto the motherboard, it will short something out.
+
+Apply it equaly with an aplicator preferably (kryonaut comes with one in the box), make sure every part of the IHS that will be touching the copper plate of the AIO is covered in thermal paste.
 
 
 
@@ -146,6 +168,12 @@ On the other hand I won't blame you if you're going wireless, buy whatever new f
 When talking about moue polling rate you have to factor in A LOT of differnt things, as a rule of thumb, 1000hz is fine, 8000hz is mostly a buzz-word and doesn't yet have any real world use cases, I wouldn't recommend using 8000 polling rate on any mouse (ESPECIALLY if it's WIRELESS), if you really want to use a higher polling rate, use 2000hz.
 
 As for mouse skates, just go for high quality aftermarket PTFE skates (not valid if you're using a GLASS mousepad, only on cloth), I don't have enough experience to give recommendations, go look into Boardzy's youtube channel, he makes the best mouse / mousepad / mouse skates content on Earth
+
+## Deviations
+
+I'll also be taking a little detour to talk about **deviations**, this can be influenced by just about everything, but it goes up exponentially with polling rate, sometimes, most times, just running the highest isn't the best alternative, running a lower polling rate means a lower standard deviation, this can result in better feeling input that's closer to what you'd expect from a real-life movement. 
+
+This can be tested with this program: [Mouse Tester](https://github.com/microe1/MouseTester) by Microe1
 
 
 
