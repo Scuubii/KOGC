@@ -1,6 +1,4 @@
-HARDWARE / PRE-SETUP
-Overview
-This section covers hardware essentials, with categories clearly specified.
+# HARDWARE / PRE-SETUP Overview This section covers hardware essentials, with categories clearly specified.
 
 # CPUs
 
