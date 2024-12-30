@@ -135,4 +135,4 @@ The Apex Pro Mini and Wooting 60HE/80HE are the best keyboards available. The Wo
 
 Disable RGB wherever possible—it adds no value beyond aesthetics.
 
-For further optimizations, check the [BIOS]() section
+For further optimizations, check the [BIOS](https://github.com/Scuubii/KOGC/edit/main/bios.md) section
