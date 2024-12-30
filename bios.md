@@ -63,3 +63,6 @@ Shoutout to these amazing creators for their contributions! <3
 
 The BIOS is a treasure trove of tweaks and customizations, but don’t let it overwhelm you. Stick to dialing in your main components and disabling unnecessary power-saving features. Once you’ve handled the essentials, your system will be in great shape.
 
+
+[SOFTWARE](https://github.com/Scuubii/KOGC/blob/main/software.md)
+
