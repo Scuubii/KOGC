@@ -46,14 +46,18 @@ For advanced BIOS adjustments, these guides are indispensable:
 ## Intel:
 
 [Ancel's guide](https://docs.google.com/document/d/1ztCWHU2vCG9hnD_94VhlnsLJq1-0Mq7OwhjF79JsYgA/edit?tab=t.0)
+
 [Intel Grub List by @kapselegg](https://docs.google.com/document/d/1-7PxsfVJac_ooZEQe33eAE9oGo-32iXeDvVduCpJd-M/edit?tab=t.0)
+
 [Hidden Intel BIOS settings list](https://docs.google.com/document/d/1KIW7D9tCcv5sBBCh9qR6S-jZSsvTKQFwtOfBhkaBD4E/edit?tab=t.0)
+
 [Grub list by Vost](https://docs.google.com/document/d/1nDY2UcB7z2TewJKXJ2rK8Dl79PzbFaDefTHEtobhER4/edit?tab=t.0)
 
 
 ## AMD:
 
 [Ryzen SCEWIN / Grub](https://docs.google.com/document/d/1JhhSZqdbljHjNkLymoIRq67CiCLTISpZb2dm-gbpIs0/edit?tab=t.0)
+
 [AMD BIOS Optimization Spreadsheet](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag/edit?gid=2060234474#gid=2060234474)
 
 Shoutout to these amazing creators for their contributions! <3
