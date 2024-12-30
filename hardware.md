@@ -19,12 +19,14 @@ For AMD CPUs, the 7800X3D and the newer 9800X3D are standout choices, especially
 
 AMD’s platform is robust and gaming-focused. While they offer CPUs tailored for workloads, dual-CCD processors can introduce latency. However, AMD’s server processors are undisputedly superior to Intel’s in performance and efficiency.
 
-Design Differences
+## Design Differences
+
 The Intel vs. AMD debate has largely faded, as both brands now produce exceptional CPUs. Intel’s monolithic CPU die design provides slightly lower latency, whereas AMD’s chiplet-based design allows for higher core counts and scalability.
 
 Monolithic (Intel): The CPU die is a single piece, which minimizes latency but limits scalability.
 Chiplet (AMD): Multiple chiplets are connected via a high-speed interconnect. While this introduces slight latency, it allows for greater scalability and cost efficiency.
-Fun fact: Intel criticized AMD’s chiplet design, calling it “glue.” Ironically, Intel later adopted the same technology for its server CPUs, which delivered worse performance and efficiency compared to AMD.
+
+Fun fact: Intel criticized AMD’s chiplet design, calling it “glue.” Ironically, Intel later adopted the same technology for its server CPUs, which delivered worse performance and efficiency compared to AMD's counterparts.
 
 
 
@@ -98,11 +100,13 @@ For high-end CPUs (e.g., 14900K, 9800X3D), use a 360mm or 420mm AIO.
 Direct die cooling involves removing the CPU’s lid (IHS) to apply the cooler directly to the die for better thermal performance. This technique is advanced and can permanently damage your CPU if done improperly. Key points:
 
 Sand down the IHS to improve thermal transfer.
+
 Use high-quality thermal paste, such as Kryonaut or liquid metal (exercise caution with liquid metal to avoid short circuits).
 
 
 # Monitor
 
+This is one of the most importat things you can buy, the difference between a cheap 240Hz monitor and a 360Hz OLED monitor is insane.
 
 Super Budget: Cheapest 240Hz, 1ms monitor available.
 
@@ -110,7 +114,7 @@ Moderate Budget: 240Hz, 0.5ms monitor (e.g., BENQ).
 
 Decent Budget: 360Hz monitors from BENQ or ASUS.
 
-High Budget: OLED monitors (240Hz+).
+High Budget: 240Hz OLED monitors.
 
 Unlimited Budget: High-refresh OLEDs (360Hz or experimental 480Hz).
 
@@ -120,7 +124,7 @@ Unlimited Budget: High-refresh OLEDs (360Hz or experimental 480Hz).
 
 ## Mouse
 
-For wired mice, the Endgame Gear OP1 8K is a top choice. For wireless, the Razer Viper V3 Pro and Logitech Superlight V2 are excellent options. Avoid using 8000Hz polling rates due to practical limitations; 1000Hz or 2000Hz are better choices.
+For wired mice, the Endgame Gear OP1 8K is a top choice. For wireless, the Razer Viper V3 Pro and Logitech Superlight V2 are excellent options. Avoid using 8000Hz polling rates due to interference with wirless mice, deviations and general bugs with game engine; 1000Hz or 2000Hz are better choices.
 
 ## Keyboard
 
