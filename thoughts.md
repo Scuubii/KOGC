@@ -11,7 +11,7 @@ not to gain an advantage... If you're passionate and want to learn, you can ask 
 
 What's been said here and what is in the guides I linked is still considered computer science, don't worry if you can't understand or replicate or understand most of this, you'll get there, 
 it takes time and a lot of learning, keep in mind, these aren't just buy and configure machines, they are still exterme feats of us, humans, A LOT of small bits go into making a working computer,
-more then you know, more then I know, It's truly fascinating what we've achieved as a species, mass computation is the first step to a autonomous society where automation is a norm not a luxury,
+more then you know, more then I know, It's truly fascinating what we've achieved as a species, mass computation is the first step to an autonomous society where automation is a norm not a luxury,
 and I'm all for it.
 
 LOVE YOU <3 
