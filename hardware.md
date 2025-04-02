@@ -12,6 +12,14 @@
 
 
 
+
+
+
+
+
+
+
+
 # RAM
 
 ## 1. Manta VCOLOR (8200XMP)
