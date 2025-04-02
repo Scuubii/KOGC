@@ -3,133 +3,96 @@
 # CPUs
 
 
-## Intel
-
-
-As of now, Intel’s latest Core Ultra series CPUs are underwhelming compared to their predecessors. If you’re in the market for an Intel CPU and no newer, better alternatives are available, the 14700KS or 14900KS are your best options. Recent microcode updates have resolved the voltage issue that caused CPUs to fry.
-
-Intel has been the leader in processors for decades, peaking around 2013. However, recent issues like microcode problems with 13th and 14th-gen CPUs, leading to physical damage, and the disappointing Ultra Core series release have caused a decline in market share and consumer confidence.
-
-## AMD
-
-
-For AMD CPUs, the 7800X3D and the newer 9800X3D are standout choices, especially for gaming. AMD has seen significant growth since the early 2010s, capturing a major share of the gaming market.
-
-AMD’s platform is robust and gaming-focused. While they offer CPUs tailored for workloads, dual-CCD processors can introduce latency. However, AMD’s server processors are undisputedly superior to Intel’s in performance and efficiency.
-
-## Design Differences
-
-The Intel vs. AMD debate has largely faded, as both brands now produce exceptional CPUs. Intel’s monolithic CPU die design provides slightly lower latency, whereas AMD’s chiplet-based design allows for higher core counts and scalability.
-
-Monolithic (Intel): The CPU die is a single piece, which minimizes latency but limits scalability.
-Chiplet (AMD): Multiple chiplets are connected via a high-speed interconnect. While this introduces slight latency, it allows for greater scalability and cost efficiency.
-
-Fun fact: Intel criticized AMD’s chiplet design, calling it “glue.” Ironically, Intel later adopted the same technology for its server CPUs, which delivered worse performance and efficiency compared to AMD's counterparts.
+## 1. 14900ks
+## 2. 9800x3d 
+## 3. 14900kf
+## 4. 14700kf
+## 5. 7800x3d
+## 6 . 14600kf
 
 
 
 # RAM
 
+## 1. Manta VCOLOR (8200XMP)
+## 2. Gskill 8000cl38 (F5-8000J3848F24GX2-TZ5K)
+## 3. Gskill 7200cl34
+## 4. Teamgroup T-create 7200cl34
 
-## General Notes
-RAM is one of the most overlooked components in a PC build, yet latency is crucial to overall system performance. Investing in high-quality RAM and a capable motherboard is essential.
 
-For the best results, use motherboards with only two DIMM slots ("2 DIMM boards"), as they allow for higher RAM speeds and better overclocking consistency. Recommended models include:
-
-Intel: Z790-I Lightning, Z790 Encore
-AMD: X870E Crosshair Hero, X870E-E
-
-## Intel
-
-Push RAM speeds as high as your motherboard and CPU can handle. Most Intel systems see diminishing returns beyond 7600 MT/s, although speeds up to 8200 MT/s are possible with high-end setups. RAM tuning on Intel is highly rewarding, but achieving optimal results may require meticulous manual adjustments.
-
-## AMD
-
-AMD prefers lower RAM speeds compared to Intel. The "golden standard" for AMD systems is 6000 MT/s, though rare setups can handle up to 6600 MT/s. AMD's Infinity Fabric (FCLK) ties CPU and RAM performance closely together, so ensuring a 1:1 ratio between memory clock (MCLK) and Unified Memory Controller Clock (UCLK) is critical for stability.
 
 ## Motherboards
 
 
-Key Advice
-
-Do not skimp on your motherboard. The quality of your motherboard significantly impacts RAM tuning, overclocking capabilities, and overall system performance.
-
-Recommendations
-Intel:
-
-Z790 Encore (Best overall)
-Z790-I Lightning (Solid choice)
+## Intel:
 
 
-AMD:
+## 1. z690 KINGPIN
+## 2. z790 KINGPIN
+## 4. z790 White APEX
+## 5. z790 APEX Encore
+## 6. z790i edge
+## 7. z690 Unify-X
+## 8. z790i lightning
 
-X870E Crosshair Hero (Best overall)
-X870E-E (Budget-friendly alternative)
 
+## AMD:
+
+## 1. x870e Apex
+## 2. x670e Gene
+## 3. x870e Hero
+## 4. x670e Hero
+## 5. x870e Aorus Master
 
 # GPUs
 
-This category is straightforward:
-
-Buy NVIDIA.
-Avoid AMD GPUs unless you plan to use a Linux-based operating system.
-For gaming at 1080p or non-demanding titles, mid-range GPUs are sufficient. For cutting-edge gaming and workloads, invest in the most expensive NVIDIA GPU you can afford.
+## 1. 5090
+## 2. 4090
+## 3. 5080
+## 4. 4080
 
 
 # Storage
 
-
-Opt for a fast M.2 NVMe SSD.
-Avoid SATA SSDs unless cost is a major factor.
-For bulk storage or NAS setups, refurbished 8TB+ hard drives are a cost-effective option.
+## 1. Crucial T705
+## 2. Samsung 990 pro
 
 
 # Cooling
 
 
-General Tips
-
-Effective cooling is crucial for overclocking and CPU longevity. For modern CPUs, at least a 240mm AIO is recommended. Air coolers are less efficient and not worth considering for high-performance builds.
-
-For high-end CPUs (e.g., 14900K, 9800X3D), use a 360mm or 420mm AIO.
-
-## Advanced Techniques: Direct Die Cooling
-
-Direct die cooling involves removing the CPU’s lid (IHS) to apply the cooler directly to the die for better thermal performance. This technique is advanced and can permanently damage your CPU if done improperly. Key points:
-
-Sand down the IHS to improve thermal transfer.
-
-Use high-quality thermal paste, such as Kryonaut or liquid metal (exercise caution with liquid metal to avoid short circuits).
-
+## 1. GALAHAD II 360 Trinity Performance
+## 2. Thermalright Frozen Prism
 
 # Monitor
 
-This is one of the most importat things you can buy, the difference between a cheap 240Hz monitor and a 360Hz OLED monitor is insane.
-
-Super Budget: Cheapest 240Hz, 1ms monitor available.
-
-Moderate Budget: 240Hz, 0.5ms monitor (e.g., BENQ).
-
-Decent Budget: 360Hz monitors from BENQ or ASUS.
-
-High Budget: 240Hz OLED monitors.
-
-Unlimited Budget: High-refresh OLEDs (360Hz or experimental 480Hz).
+## 1. PG27AQDP
+## 2. PG32UCDP
+## 3. XG27ACDNG
+## 4. PG27AQDM
+## 5. AW2724HF
+## 6. AGON 24G2ZU
 
 
-# Peripherals
+# Mouse
+
+## 1. OP1 8K
+## 2. Op1w 4k
+## 4. Superlight 2 
+## 4. Viper Mini SE
+## 5. Finalmouse ULX Pro
 
 
-## Mouse
-
-For wired mice, the Endgame Gear OP1 8K is a top choice. For wireless, the Razer Viper V3 Pro and Logitech Superlight V2 are excellent options. Avoid using 8000Hz polling rates due to interference with wirless mice, deviations and general bugs with game engine; 1000Hz or 2000Hz are better choices.
 
 ## Keyboard
 
-The Apex Pro Mini and Wooting 60HE/80HE are the best keyboards available. The Wooting is superior, offering better latency and software integration. Use the lowest actuation point and enable rapid trigger for competitive gaming.
+## 1. Custom PCB (venom60he, mad60he, etc)
+## 2. Wooting 80HE
+## 3. Wooting 60HE
+## 4. Apex Pro TKL (new version)
+## 5. Apex Pro Mini
 
 ## Final Notes
-
 
 Disable RGB wherever possible—it adds no value beyond aesthetics.
 
