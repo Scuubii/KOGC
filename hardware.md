@@ -2,13 +2,13 @@
 
 # CPUs
 
-
-## 1. 14900ks
+## 1. 9950X3D
 ## 2. 9800x3d 
-## 3. 14900kf
-## 4. 14700kf
-## 5. 7800x3d
-## 6 . 14600kf
+## 3. 14900ks
+## 4. 14900kf
+## 5. 14700kf
+## 6. 7800x3d
+## 7 . 14600kf
 
 
 
@@ -24,12 +24,22 @@
 
 ## 1. Manta VCOLOR (8200XMP)
 ## 2. Gskill 8000cl38 (F5-8000J3848F24GX2-TZ5K)
-## 3. Gskill 7200cl34
-## 4. Teamgroup T-create 7200cl34
+## 3. Gskill 6000cl26
+## 4. Gskill 7200cl34
+## 5. Teamgroup T-create 7200cl34
 
 
 
 ## Motherboards
+
+
+## AMD:
+
+## 1. x870e Apex
+## 2. x870e Hero
+## 3. x670e Gene
+## 4. x670e Hero
+## 5. x870e Aorus Master
 
 
 ## Intel:
@@ -44,13 +54,6 @@
 ## 8. z790i lightning
 
 
-## AMD:
-
-## 1. x870e Apex
-## 2. x670e Gene
-## 3. x870e Hero
-## 4. x670e Hero
-## 5. x870e Aorus Master
 
 # GPUs
 
@@ -84,11 +87,12 @@
 
 # Mouse
 
-## 1. OP1 8K
-## 2. Op1w 4k
-## 4. Superlight 2 
-## 4. Viper Mini SE
-## 5. Finalmouse ULX Pro
+## 1. OP1 8K purple frost
+## 2. OP1 8K
+## 3. Op1w 4k
+## 5. Superlight 2 
+## 6. Viper Mini SE
+## 7. Finalmouse ULX Pro
 
 
 
